@@ -13,8 +13,8 @@
  - [x] Authentication
 
 ## Mid-Level 
- - [x] Components [ Customization ]
- - [x] Models [ Instance Methods - models vs views - Transaction]
+ - [] Components [ Customization ]
+ - [] Models [ Instance Methods - models vs views - Transaction]
  - [x] Views [ customize mixins ]
  - [x] Templates [ customiza filters & tags ]
  - [x] Translation
